@@ -19,7 +19,8 @@
  
 ## Como executar
  
-**Pré-requisito:** Java instalado. Verifique com:
+**Pré-requisito:** Java instalado. </br>
+Verifique com:
 ```bash
 java -version
 ```
